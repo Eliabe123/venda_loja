@@ -1,0 +1,185 @@
+id_venda,produto,categoria,cliente,quantidade,preco_unitario,data_venda
+V00001,luminária de mesa,  UTILIDADES  ,Thiago Barbosa,3,65.64,2024-03-13 16:42:00
+V00002,  LÁPIS PRETO  ,Papelaria,beatriz pereira,7,1.0,2024-01-24 11:14:00
+V00003,Camiseta Básica ,Vestuário,Aline Cardoso,8,34.65,2024-06-02 08:56:00
+V00004,  GUARDA-CHUVA  ,Utilidades,Fernanda Lima,3,23.51,2024-05-01 16:10:00
+V00005,meia cano alto,Vestuário ,diego ferreira,2.0,12.44,2024-05-27 11:16:00
+V00006,  GUARDA-CHUVA  ,utilidades,  VANESSA RIBEIRO  ,7,26.3,2024-05-31 12:20:00
+V00007,  RELÓGIO DIGITAL  ,Acessórios,Felipe Nogueira,7,79.54,2024-07-05 08:43:00
+V00008,  FONE DE OUVIDO  ,  ELETRÔNICOS  ,Ana Beatriz,1.0,43.98,2024-05-01 17:54:00
+V00009,borracha escolar,  PAPELARIA  ,rodrigo teixeira,7.0,2.43,2024-06-07 11:49:00
+V00010,Guarda-Chuva,Utilidades,Rodrigo Teixeira,1.0,25.47,2024-03-01 18:43:00
+V00011,  GUARDA-CHUVA  ,utilidades,João Pedro ,1.0,26.89,2024-06-04 20:15:00
+V00012,fone de ouvido,eletrônicos,  JOÃO PEDRO  ,1,44.24,2024-04-22 08:37:00
+V00013,Camiseta Básica,Vestuário ,Patrícia Gomes,3,35.59,2024-03-17 15:20:00
+V00014,  ÓCULOS DE SOL  ,  ACESSÓRIOS  ,patrícia gomes,4,58.2,2024-06-25 21:40:00
+V00015,  CAMISETA BÁSICA  ,Vestuário ,,2,33.14,2024-03-19 17:47:00
+V00016,luminária de mesa,Utilidades ,ana beatriz,6.0,64.95,2024-01-29 13:56:00
+V00017,guarda-chuva,Utilidades ,Mariana Souza ,8,25.15,2024-03-29 13:35:00
+V00018,Caneta Azul ,  PAPELARIA  ,Gustavo Melo ,,3.83,2024-03-14 20:51:00
+V00019,Luminária de Mesa,Utilidades,Patrícia Gomes,8.0,66.63,2024-03-17 21:37:00
+V00020,caderno universitário,  PAPELARIA  ,fernanda lima,7,17.44,2024-04-28 10:03:00
+V00021,Guarda-Chuva,Utilidades ,joão pedro,4,24.53,2024-04-01 17:18:00
+V00022,  BORRACHA ESCOLAR  ,papelaria,  VANESSA RIBEIRO  ,3,2.78,2024-01-08 08:20:00
+V00023,Fone de Ouvido,Eletrônicos,Fernanda Lima,5,46.09,2024-04-16 13:59:00
+V00024,Óculos de Sol,  ACESSÓRIOS  ,carlos eduardo,3.0,59.42,2024-04-09 12:59:00
+V00025,Luminária de Mesa ,  UTILIDADES  ,Diego Ferreira,8,66.59,2024-07-09 21:30:00
+V00026,  RELÓGIO DIGITAL  ,Acessórios,  RODRIGO TEIXEIRA  ,4,79.85,2024-03-10 14:31:00
+V00027,  MOCHILA ESCOLAR  ,Acessórios ,Mariana Souza,2,101.54,2024-03-24 19:26:00
+V00028,Caneta Azul,Papelaria,rodrigo teixeira,4,4.17,2024-02-01 15:08:00
+V00029,Caderno Universitário ,Papelaria ,fernanda lima,4,17.57,2024-05-04 15:13:00
+V00030,Boné Esportivo ,  VESTUÁRIO  ,João Pedro,4,26.68,2024-04-02 10:19:00
+V00031,Caneta Azul,  PAPELARIA  ,Bruno Martins,6,2.0,2024-02-07 11:33:00
+V00032,  MEIA CANO ALTO  ,Vestuário,Juliana Alves,8,12.48,2024-06-13 15:09:00
+V00033,  CARREGADOR PORTÁTIL  ,Eletrônicos,Juliana Alves,8,29.01,2024-05-30 20:33:00
+V00034,meia cano alto,vestuário,juliana alves,,12.92,2024-03-05 21:03:00
+V00035,  MEIA CANO ALTO  ,vestuário,  ANA BEATRIZ  ,7,14.19,2024-01-28 14:23:00
+V00036,Carregador Portátil,Eletrônicos ,diego ferreira,2,30.08,2024-06-14 10:58:00
+V00037,mouse sem fio,Eletrônicos,  BRUNO MARTINS  ,2,40.21,2024-03-20 17:43:00
+V00038,  FONE DE OUVIDO  ,Eletrônicos,rafael costa,7.0,45.78,2024-06-29 11:04:00
+V00039,  BONÉ ESPORTIVO  ,Vestuário ,vanessa ribeiro,2,27.37,2024-03-18 19:25:00
+V00040,Caneta Azul,  PAPELARIA  ,,1,2.58,2024-05-17 18:46:00
+V00041,Óculos de Sol,  ACESSÓRIOS  ,camila rocha,4,60.64,2024-07-15 20:03:00
+V00042,caneta azul,Papelaria ,  JULIANA ALVES  ,,2.99,2024-05-07 18:28:00
+V00043,Luminária de Mesa,  UTILIDADES  ,Vanessa Ribeiro,2,63.99,2024-01-17 13:01:00
+V00044,  CAMISETA BÁSICA  ,  VESTUÁRIO  ,Felipe Nogueira,3.0,35.32,2024-07-10 19:07:00
+V00045,  CANETA AZUL  ,Papelaria ,Felipe Nogueira,4,3.1,2024-07-18 18:02:00
+V00046,óculos de sol,Acessórios,Patrícia Gomes ,3,59.88,2024-01-10 10:32:00
+V00047,Relógio Digital ,Acessórios ,Thiago Barbosa,4,80.66,2024-06-14 19:31:00
+V00048,Óculos de Sol,  ACESSÓRIOS  ,carlos eduardo,3,59.42,2024-04-09 12:59:00
+V00049,Carregador Portátil ,Eletrônicos,larissa dias,2,30.87,2024-07-14 19:11:00
+V00050,Power Bank,Eletrônicos,Beatriz Pereira,4,87.93,2024-06-30 18:03:00
+V00051,Caneta Azul,papelaria,Larissa Dias,1.0,1.0,2024-05-02 16:58:00
+V00052,Caderno Universitário,Papelaria,  RAFAEL COSTA  ,4,20.26,2024-06-08 10:15:00
+V00053,Camiseta Básica,  VESTUÁRIO  ,Rodrigo Teixeira,1,34.97,2024-02-18 09:15:00
+V00054,caneta azul,Papelaria,thiago barbosa,4,1.3,2024-04-27 13:19:00
+V00055,Boné Esportivo,vestuário,  CARLOS EDUARDO  ,4.0,26.65,2024-03-13 19:55:00
+V00056,Borracha Escolar,Papelaria,,7,1.0,2024-03-29 17:16:00
+V00057,Relógio Digital,Acessórios,Gustavo Melo ,2,79.44,2024-06-01 15:33:00
+V00058,  MEIA CANO ALTO  ,  VESTUÁRIO  ,,2.0,14.41,2024-03-07 10:37:00
+V00059,Caneta Azul ,Papelaria,  MARIANA SOUZA  ,3,3.74,2024-03-18 09:15:00
+V00060,Borracha Escolar,Papelaria,vanessa ribeiro,2,2.59,2024-02-09 15:59:00
+V00061,Luminária de Mesa,Utilidades ,Ana Beatriz,5,66.73,2024-01-27 10:16:00
+V00062,lápis preto,Papelaria,Lucas Gabriel ,1,1.43,2024-06-25 17:30:00
+V00063,lápis preto,  PAPELARIA  ,  ANA BEATRIZ  ,8,2.28,2024-05-24 09:04:00
+V00064,  GUARDA-CHUVA  ,utilidades,João Pedro ,1.0,26.89,2024-06-04 20:15:00
+V00065,mouse sem fio,eletrônicos,Diego Ferreira,1,38.62,2024-03-26 20:59:00
+V00066,boné esportivo,vestuário,rafael costa,2,27.24,2024-01-26 20:40:00
+V00067,Relógio Digital,Acessórios,Camila Rocha,,81.28,2024-02-20 14:54:00
+V00068,Relógio Digital ,Acessórios,Diego Ferreira ,6.0,80.07,2024-04-16 08:13:00
+V00069,Lápis Preto,Papelaria,Camila Rocha,6.0,2.37,2024-04-12 18:53:00
+V00070,camiseta básica,vestuário,carlos eduardo,2,35.29,2024-03-29 19:50:00
+V00071,carregador portátil,eletrônicos,bruno martins,7,31.88,2024-06-15 13:28:00
+V00072,Luminária de Mesa,  UTILIDADES  ,Thiago Barbosa,4,64.1,2024-01-20 19:18:00
+V00073,Luminária de Mesa,utilidades,lucas gabriel,1,66.84,2024-01-21 21:11:00
+V00074,Lápis Preto,Papelaria,Diego Ferreira,5,1.0,2024-03-26 20:08:00
+V00075,Óculos de Sol,  ACESSÓRIOS  ,Gustavo Melo,4,59.89,2024-05-29 10:14:00
+V00076,boné esportivo,vestuário,Gustavo Melo ,6,27.81,2024-06-29 09:02:00
+V00077,  GARRAFA TÉRMICA  ,Utilidades,Camila Rocha ,8,41.02,2024-01-03 20:29:00
+V00078,  FONE DE OUVIDO  ,  ELETRÔNICOS  ,Thiago Barbosa,2,46.49,2024-05-26 12:30:00
+V00079,Mouse Sem Fio ,eletrônicos,Gustavo Melo,5,39.52,2024-01-01 12:18:00
+V00080,óculos de sol,Acessórios,,6,61.31,2024-05-16 14:20:00
+V00081,Óculos de Sol,acessórios,Rodrigo Teixeira ,1,59.72,2024-03-21 12:20:00
+V00082,Power Bank,Eletrônicos ,  BRUNO MARTINS  ,2,91.32,2024-01-26 14:17:00
+V00083,  RELÓGIO DIGITAL  ,Acessórios ,Patrícia Gomes,1.0,81.33,2024-07-14 17:24:00
+V00084,Garrafa Térmica ,Utilidades,Aline Cardoso ,6.0,43.8,2024-04-23 17:52:00
+V00085,  ÓCULOS DE SOL  ,  ACESSÓRIOS  ,larissa dias,1,59.88,2024-03-24 10:31:00
+V00086,boné esportivo,vestuário,Beatriz Pereira,6,27.39,2024-05-15 13:27:00
+V00087,Power Bank ,eletrônicos,Fernanda Lima,,91.34,2024-01-19 16:15:00
+V00088,Relógio Digital,Acessórios,rafael costa,8,80.26,2024-01-02 20:51:00
+V00089,  GUARDA-CHUVA  ,  UTILIDADES  ,  MARIANA SOUZA  ,4,24.19,2024-01-15 17:47:00
+V00090,Guarda-Chuva,Utilidades,  JOÃO PEDRO  ,,24.6,2024-01-19 17:40:00
+V00091,borracha escolar,Papelaria ,diego ferreira,4.0,1.0,2024-06-27 16:29:00
+V00092,  RELÓGIO DIGITAL  ,Acessórios,  RODRIGO TEIXEIRA  ,4.0,79.85,2024-03-10 14:31:00
+V00093,  FONE DE OUVIDO  ,Eletrônicos,,2,45.26,2024-02-25 15:44:00
+V00094,Borracha Escolar,papelaria,fernanda lima,3,2.18,2024-04-04 17:35:00
+V00095,Garrafa Térmica,  UTILIDADES  ,Mariana Souza,1.0,43.63,2024-05-31 17:42:00
+V00096,óculos de sol,Acessórios ,Rafael Costa,7,58.07,2024-07-09 15:45:00
+V00097,power bank,Eletrônicos,  BEATRIZ PEREIRA  ,1,90.38,2024-04-17 18:37:00
+V00098,  RELÓGIO DIGITAL  ,Acessórios ,larissa dias,5.0,78.0,2024-02-28 18:53:00
+V00099,  POWER BANK  ,  ELETRÔNICOS  ,Felipe Nogueira,5,88.53,2024-05-19 19:19:00
+V00100,Caneta Azul ,papelaria,juliana alves,5,2.7,2024-03-14 15:56:00
+V00101,  RELÓGIO DIGITAL  ,acessórios,  RAFAEL COSTA  ,5,78.54,2024-06-28 09:24:00
+V00102,  RELÓGIO DIGITAL  ,Acessórios,Beatriz Pereira,7,79.35,2024-02-05 16:31:00
+V00103,Camiseta Básica,vestuário,  LUCAS GABRIEL  ,8.0,35.11,2024-04-19 16:00:00
+V00104,Camiseta Básica,Vestuário,Aline Cardoso,3,34.93,2024-01-28 21:40:00
+V00105,Camiseta Básica,vestuário,,4,35.88,2024-05-17 12:47:00
+V00106,Caderno Universitário,  PAPELARIA  ,  RODRIGO TEIXEIRA  ,3,18.0,2024-01-14 16:18:00
+V00107,Óculos de Sol,Acessórios,thiago barbosa,7,58.88,2024-06-16 19:00:00
+V00108,garrafa térmica,  UTILIDADES  ,,3.0,41.48,2024-02-23 18:17:00
+V00109,power bank,eletrônicos,Fernanda Lima,,91.43,2024-03-03 20:29:00
+V00110,  CARREGADOR PORTÁTIL  ,Eletrônicos ,  FELIPE NOGUEIRA  ,5,29.26,2024-06-01 19:56:00
+V00111,carregador portátil,Eletrônicos,Juliana Alves,5,30.54,2024-02-10 11:11:00
+V00112,power bank,  ELETRÔNICOS  ,,6,89.5,2024-01-17 11:58:00
+V00113,Lápis Preto,Papelaria ,carlos eduardo,2,1.0,2024-02-10 20:43:00
+V00114,carregador portátil,  ELETRÔNICOS  ,Aline Cardoso,5,28.43,2024-03-30 09:56:00
+V00115,mouse sem fio,eletrônicos,Diego Ferreira,1,38.62,2024-03-26 20:59:00
+V00116,Boné Esportivo ,  VESTUÁRIO  ,  ANA BEATRIZ  ,7,26.6,2024-05-24 21:43:00
+V00117,Borracha Escolar ,  PAPELARIA  ,  PATRÍCIA GOMES  ,1,2.63,2024-05-18 15:26:00
+V00118,Boné Esportivo,Vestuário ,Aline Cardoso,4.0,26.11,2024-07-14 10:34:00
+V00119,Camiseta Básica,Vestuário,  RODRIGO TEIXEIRA  ,1.0,35.62,2024-01-30 18:56:00
+V00120,  BORRACHA ESCOLAR  ,Papelaria,  JOÃO PEDRO  ,3.0,1.09,2024-06-03 11:45:00
+V00121,  ÓCULOS DE SOL  ,acessórios,Vanessa Ribeiro ,6,61.38,2024-06-27 11:36:00
+V00122,Luminária de Mesa ,Utilidades,gustavo melo,1.0,65.24,2024-07-02 18:44:00
+V00123,Guarda-Chuva,  UTILIDADES  ,Rafael Costa,8,26.23,2024-02-18 09:06:00
+V00124,  GARRAFA TÉRMICA  ,Utilidades,Camila Rocha,4,43.36,2024-03-11 20:49:00
+V00125,Garrafa Térmica,Utilidades,  RODRIGO TEIXEIRA  ,3,41.53,2024-06-02 16:47:00
+V00126,meia cano alto,Vestuário,fernanda lima,4,13.59,2024-02-27 20:12:00
+V00127,  CANETA AZUL  ,Papelaria ,  FELIPE NOGUEIRA  ,7,3.15,2024-01-18 16:41:00
+V00128,  RELÓGIO DIGITAL  ,  ACESSÓRIOS  ,Gustavo Melo,3.0,81.6,2024-03-01 21:10:00
+V00129,Camiseta Básica,vestuário,Thiago Barbosa,,35.06,2024-07-04 17:36:00
+V00130,Garrafa Térmica ,  UTILIDADES  ,Camila Rocha,3,43.99,2024-04-21 18:52:00
+V00131,  BORRACHA ESCOLAR  ,Papelaria ,Carlos Eduardo ,7,2.91,2024-01-28 11:12:00
+V00132,caderno universitário,  PAPELARIA  ,  CAMILA ROCHA  ,1,19.95,2024-02-14 15:33:00
+V00133,  FONE DE OUVIDO  ,eletrônicos,diego ferreira,3,43.3,2024-07-19 12:21:00
+V00134,  BONÉ ESPORTIVO  ,vestuário,Rodrigo Teixeira,3,25.8,2024-03-29 17:19:00
+V00135,  RELÓGIO DIGITAL  ,acessórios,Bruno Martins ,1,80.34,2024-07-08 09:48:00
+V00136,Camiseta Básica,vestuário,Thiago Barbosa,,35.06,2024-07-04 17:36:00
+V00137,Power Bank,Eletrônicos ,joão pedro,5.0,91.3,2024-06-02 20:07:00
+V00138,  LUMINÁRIA DE MESA  ,Utilidades ,  CAMILA ROCHA  ,1,64.13,2024-03-17 21:37:00
+V00139,  CARREGADOR PORTÁTIL  ,Eletrônicos,Juliana Alves,8,29.01,2024-05-30 20:33:00
+V00140,power bank,eletrônicos,rafael costa,1,90.54,2024-04-12 13:17:00
+V00141,Power Bank,  ELETRÔNICOS  ,,8,91.13,2024-05-20 09:03:00
+V00142,Lápis Preto,Papelaria,Gustavo Melo,3,1.94,2024-03-03 10:29:00
+V00143,fone de ouvido,eletrônicos,  JOÃO PEDRO  ,1,44.24,2024-04-22 08:37:00
+V00144,Carregador Portátil,eletrônicos,diego ferreira,6,29.76,2024-04-23 18:13:00
+V00145,Lápis Preto,Papelaria,Gustavo Melo,3,1.94,2024-03-03 10:29:00
+V00146,Óculos de Sol,Acessórios,camila rocha,7.0,58.91,2024-01-21 15:01:00
+V00147,Guarda-Chuva,Utilidades ,vanessa ribeiro,6,23.74,2024-01-14 12:55:00
+V00148,Boné Esportivo,  VESTUÁRIO  ,Aline Cardoso,,27.16,2024-05-03 15:15:00
+V00149,  LÁPIS PRETO  ,Papelaria,beatriz pereira,7,1.0,2024-01-24 11:14:00
+V00150,  POWER BANK  ,  ELETRÔNICOS  ,  CAMILA ROCHA  ,6,89.18,2024-05-18 09:08:00
+V00151,Mouse Sem Fio,  ELETRÔNICOS  ,  BRUNO MARTINS  ,1.0,40.11,2024-01-24 11:53:00
+V00152,Guarda-Chuva,Utilidades ,Ana Beatriz ,6.0,24.19,2024-04-09 21:57:00
+V00153,Óculos de Sol,acessórios,Rodrigo Teixeira ,1.0,59.72,2024-03-21 12:20:00
+V00154,Mouse Sem Fio ,Eletrônicos,diego ferreira,6.0,39.01,2024-02-25 20:21:00
+V00155,  GARRAFA TÉRMICA  ,Utilidades,  BRUNO MARTINS  ,7,42.79,2024-07-06 20:35:00
+V00156,  RELÓGIO DIGITAL  ,  ACESSÓRIOS  ,beatriz pereira,3,78.58,2024-01-21 17:55:00
+V00157,  CARREGADOR PORTÁTIL  ,eletrônicos,Rodrigo Teixeira ,8,28.46,2024-02-16 12:29:00
+V00158,Meia Cano Alto,Vestuário,  FELIPE NOGUEIRA  ,8,11.98,2024-03-05 11:07:00
+V00159,meia cano alto,Vestuário,joão pedro,8,11.3,2024-04-26 08:46:00
+V00160,Caneta Azul,Papelaria,Felipe Nogueira,4,3.23,2024-06-19 09:22:00
+V00161,Óculos de Sol,  ACESSÓRIOS  ,bruno martins,3.0,58.67,2024-06-19 14:43:00
+V00162,  LUMINÁRIA DE MESA  ,Utilidades,  LARISSA DIAS  ,5,63.82,2024-07-02 13:15:00
+V00163,Camiseta Básica,Vestuário,larissa dias,2,34.07,2024-02-10 15:00:00
+V00164,Caneta Azul,Papelaria ,Vanessa Ribeiro,2.0,4.39,2024-04-06 09:35:00
+V00165,fone de ouvido,eletrônicos,  DIEGO FERREIRA  ,3,43.17,2024-04-03 20:55:00
+V00166,  LÁPIS PRETO  ,papelaria,Vanessa Ribeiro,7,3.34,2024-05-27 11:45:00
+V00167,  BORRACHA ESCOLAR  ,papelaria,  ANA BEATRIZ  ,5,1.0,2024-02-05 19:06:00
+V00168,Guarda-Chuva ,utilidades,Fernanda Lima ,8.0,24.39,2024-03-26 13:42:00
+V00169,garrafa térmica,Utilidades,fernanda lima,4,43.7,2024-06-09 17:42:00
+V00170,  MEIA CANO ALTO  ,  VESTUÁRIO  ,João Pedro ,5.0,12.93,2024-06-19 14:20:00
+V00171,Power Bank ,eletrônicos,,6,88.78,2024-02-18 17:16:00
+V00172,borracha escolar,papelaria,  LUCAS GABRIEL  ,6,1.65,2024-05-06 12:42:00
+V00173,lápis preto,papelaria,  GUSTAVO MELO  ,2,2.5,2024-03-01 14:07:00
+V00174,Garrafa Térmica,Utilidades,Ana Beatriz ,2,41.18,2024-04-13 19:15:00
+V00175,  CADERNO UNIVERSITÁRIO  ,papelaria,Patrícia Gomes,6,19.58,2024-04-13 19:10:00
+V00176,luminária de mesa,  UTILIDADES  ,Thiago Barbosa,3,65.64,2024-03-13 16:42:00
+V00177,Boné Esportivo,  VESTUÁRIO  ,Rafael Costa ,1.0,26.46,2024-05-25 09:05:00
+V00178,Mouse Sem Fio,  ELETRÔNICOS  ,  BRUNO MARTINS  ,1.0,40.11,2024-01-24 11:53:00
+V00179,  CAMISETA BÁSICA  ,vestuário,Patrícia Gomes,6,33.75,2024-03-24 13:48:00
+V00180,Garrafa Térmica,utilidades,Mariana Souza ,7,40.7,2024-05-13 18:17:00
+V00181,óculos de sol,Acessórios,Patrícia Gomes ,3,59.88,2024-01-10 10:32:00
+V00182,Carregador Portátil,eletrônicos,felipe nogueira,7,28.18,2024-06-19 13:39:00
+V00183,Camiseta Básica ,Vestuário,aline cardoso,7,36.76,2024-05-18 20:46:00
+V00184,borracha escolar,Papelaria ,diego ferreira,4,1.0,2024-06-27 16:29:00
